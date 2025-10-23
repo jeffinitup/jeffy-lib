@@ -22,7 +22,8 @@
     "btw:addon_prefix": "JL",
     "loom:injected_interfaces": {
       "net/minecraft/src/ItemArmor": ["com/jeffyjamzhd/jeffylib/api/impl/IItemArmor"],
-      "net/minecraft/src/Item": ["com/jeffyjamzhd/jeffylib/api/impl/IItem"]
+      "net/minecraft/src/Item": ["com/jeffyjamzhd/jeffylib/api/impl/IItem"],
+      "net/minecraft/src/GuiScreen": ["com/jeffyjamzhd/jeffylib/api/impl/IGuiScreen"]
     }
   },
   "mixins": [

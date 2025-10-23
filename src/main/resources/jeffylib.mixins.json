@@ -10,6 +10,10 @@
     "container.PlayerContainerMixin",
     "slot.SlotArmorMixin"
   ],
+  "client": [
+    "gui.GuiContainerCreativeMixin",
+    "gui.GuiScreenMixin"
+  ],
   "injectors": {
     "defaultRequire": 1
   }
